@@ -1,0 +1,12 @@
+#ignore *.exe
+*.exe
+
+#ignore video files
+*.MP4
+*.avi
+
+#ignore image files
+*.png
+
+#ignore Extras folder
+/Extras
